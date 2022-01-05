@@ -1,4 +1,4 @@
-package chapter1.ch01;
+package chapter2.ch02;
 
 class Other {}
 /*
