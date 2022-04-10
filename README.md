@@ -24,6 +24,12 @@
 * 기본 자료형은 사용하는 메모리의 크기가 정해져 있지만, 참조 자료형은 클래스에 따라 다름
 * 참조 자료형을 사용할 때는 해당 변수에 대해 생성해서 사용해야 함 (예외, String 클래스)
 
+## 접근제어 지시자
+* private
+* protected
+* (default) : protected 와 거의 동일하지만, **상속의 경우 패키지가 다르면 접근불가**. 즉, 같은 패키지 내에서만 접근 가능 !!
+* public
+
 ## Term
 * JDK(Java Development Kit): 자바에서 제공되는 개발용 라이브러리, 계속 버전이 올라가고 있음
 * JRE(Java Runtime Environment): 자바 프로그램이 실행되는 환경
